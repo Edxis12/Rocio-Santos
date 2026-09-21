@@ -17,7 +17,7 @@
         "announcement_BxgCk9": {
           "type": "_announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "ENVÍO GRATIS EN COMPRAS DESDE $1,200",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "0.75rem",
@@ -35,12 +35,12 @@
       "name": "t:names.announcement_bar",
       "settings": {
         "speed": 5,
-        "section_width": "page-width",
-        "background_color": "{{ settings.color_palette.background }}",
-        "divider_width": 1,
+        "section_width": "full-width",
+        "background_color": "#3F3333",
+        "divider_width": 0,
         "divider_color": "{{ settings.color_palette.color2 }}",
-        "padding-block-start": 15,
-        "padding-block-end": 15
+        "padding-block-start": 8,
+        "padding-block-end": 8
       }
     },
     "header_section": {
